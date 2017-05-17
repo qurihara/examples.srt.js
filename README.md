@@ -25,7 +25,7 @@ https://srtjs.azurewebsites.net/?v=rwoW6U7GiYY&surl=https://raw.githubuserconten
 
 Input 0.5, 1, 1.5 or 2.
 
-## Closing browser tab like "Misson Impossible"
+## Closing browser tab like "Mission Impossible"
 src:
 https://raw.githubusercontent.com/qurihara/examples.srt.js/master/simple/window_close.srt.js
 
