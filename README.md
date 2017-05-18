@@ -54,7 +54,7 @@ https://srtjs.azurewebsites.net/?v=0E00Zuayv9Q&surl=https://raw.githubuserconten
 
 Run 2 instances of the above demo simultaneously to test both message sending and recieving.
 
-## meshblu
+## meshblu ( You can connect to myThings via meshblu on IDCF cloud)
 ### meshblu send
 src:
 https://raw.githubusercontent.com/qurihara/examples.srt.js/master/iot/meshblu_send.srt.js
