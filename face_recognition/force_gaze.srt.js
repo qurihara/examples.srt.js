@@ -15,8 +15,8 @@ function control(flag){
 var cam = document.createElement('canvas');
 cam.style.display = 'none';
 document.getElementsByTagName( 'body' )[ 0 ].appendChild(cam);
-loadScript('https://raw.githubusercontent.com/qurihara/examples.srt.js/master/face_recognition/ccv.js',function(e){
-loadScript('https://raw.githubusercontent.com/qurihara/examples.srt.js/master/face_recognition/face.js',function(e2){
+loadScript('https://rawgit.com/qurihara/examples.srt.js/master/face_recognition/ccv.js',function(e){
+loadScript('https://rawgit.com/qurihara/examples.srt.js/master/face_recognition/face.js',function(e2){
   navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia || navigator.msGetUserMedia;
   var video = document.createElement('video');
   var canvas = document.querySelector('canvas');
