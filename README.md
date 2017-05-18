@@ -90,3 +90,10 @@ https://raw.githubusercontent.com/qurihara/examples.srt.js/master/text_to_speech
 
 demo:
 http://srtjs.azurewebsites.net/?v=V1N4QFQwdsE&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/text_to_speech/tts_happybirthday.srt.js
+
+# map and GPS
+src:
+https://raw.githubusercontent.com/qurihara/examples.srt.js/master/location/map_gps.srt.js
+
+demo:
+https://srtjs.azurewebsites.net/?v=zIX6YjlgdZA&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/location/map_gps.srt.js&close=1000
