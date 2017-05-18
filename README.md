@@ -41,7 +41,7 @@ src:
 https://raw.githubusercontent.com/qurihara/examples.srt.js/master/webmo/webmo_peekaboo.srt.js
 
 demo:
-http://srtjs.azurewebsites.net/?v=oyCoKHoLtTwsurl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/webmo/webmo_peekaboo.srt.js
+http://srtjs.azurewebsites.net/?v=oyCoKHoLtTw&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/webmo/webmo_peekaboo.srt.js
 
 # iot:
 
