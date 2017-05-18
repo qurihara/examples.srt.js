@@ -75,7 +75,7 @@ https://srtjs.azurewebsites.net/?v=DfYC_GffTPc&surl=https://raw.githubuserconten
 
 Takeing photos before/at a comedian's joke.
 
-# Camera
+# Face recognition
 src:
 https://raw.githubusercontent.com/qurihara/examples.srt.js/master/face_recognition/force_gaze.srt.js
 
