@@ -69,6 +69,9 @@ https://raw.githubusercontent.com/qurihara/examples.srt.js/master/iot/meshblu_re
 You can check send/reveice by the following website with your meshblu account:
 http://jsrun.it/qurihara/UVH7?myuuid=xxx&mytoken=yyy&server=zzz.zzz.zzz.zzz&port=80&suuid=xxx
 
+Here is some codes for Sony MESH tags to communicate with meshblu server:
+https://github.com/qurihara/SonyMESH_Meshblu
+
 # Camera
 src:
 https://raw.githubusercontent.com/qurihara/examples.srt.js/master/camera/wakky_cameracapture.srt.js
