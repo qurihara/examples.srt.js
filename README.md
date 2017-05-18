@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/qurihara/examples.srt.js/master/webmo/webmo_pe
 demo:
 http://srtjs.azurewebsites.net/?v=oyCoKHoLtTw&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/webmo/webmo_peekaboo.srt.js
 
-# iot:
+# IoT:
 
 ## milkcocoa on ppap
 src:
@@ -53,3 +53,19 @@ demo:
 https://srtjs.azurewebsites.net/?v=0E00Zuayv9Q&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/iot/milkcocoa.srt.js
 
 Run 2 instances of the above demo simultaneously to test both message sending and recieving.
+
+# Camera
+src:
+https://raw.githubusercontent.com/qurihara/examples.srt.js/master/camera/wakky_cameracapture.srt.js
+
+demo:
+https://srtjs.azurewebsites.net/?v=DfYC_GffTPc&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/camera/wakky_cameracapture.srt.js
+
+Takeing a photo at a comedian's joke.
+
+# Text to Speech
+src:
+https://raw.githubusercontent.com/qurihara/examples.srt.js/master/text_to_speech/tts_happybirthday.srt.js
+
+demo:
+http://srtjs.azurewebsites.net/?v=V1N4QFQwdsE&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/text_to_speech/tts_happybirthday.srt.js
