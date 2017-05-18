@@ -4,9 +4,15 @@
 doOnce[index] = true;
 player.pauseVideo();
 loadScript('https://cdn.mlkcca.com/v0.6.0/milkcocoa.js',function(e){
+  // Note that this API key is shared among all srtjs users under milkcocoa free account.
+  // Change it to your own API key when your test is finished.
   milkcocoa = new MilkCocoa('woodj2to2ujh.mlkcca.com');  player.playVideo();
   ds = milkcocoa.dataStore('messages');
-  webmo.rotateBy(360,360);
+  //
+  //for message arrival from another milkcocoa instance:
+  ds.on('send', function(sended) {
+    console.log('[message recieved] title: '+sended.value.title+', content: '+sended.value.content);
+  });
 });
 
 1
@@ -26,4 +32,4 @@ ds.send({title : 'ppap', content : 'apple-pen'});
 
 4
 00:00:32,500 --> 00:00:35,500
-player.seekTo(22,true);//リピート再生
+player.seekTo(22,true);//repeat

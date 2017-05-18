@@ -51,3 +51,5 @@ https://raw.githubusercontent.com/qurihara/examples.srt.js/master/iot/milkcocoa.
 
 demo:
 https://srtjs.azurewebsites.net/?v=0E00Zuayv9Q&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/iot/milkcocoa.srt.js
+
+Run 2 instances of the above demo simultaneously to test both message sending and recieving.
