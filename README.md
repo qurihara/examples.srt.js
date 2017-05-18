@@ -97,3 +97,18 @@ https://raw.githubusercontent.com/qurihara/examples.srt.js/master/location/map_g
 
 demo:
 https://srtjs.azurewebsites.net/?v=zIX6YjlgdZA&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/location/map_gps.srt.js&close=1000
+
+# indexedFunction demo
+## news navigation with shake gestures
+src:
+https://raw.githubusercontent.com/qurihara/examples.srt.js/master/indexedFunction/news_shake_navi.srt.js
+
+demo:
+http://srtjs.azurewebsites.net/?v=gEiGQ30JK5M&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/indexedFunction/news_shake_navi.srt.js
+
+## book guide to amazon with shake gestures
+src:
+https://raw.githubusercontent.com/qurihara/examples.srt.js/master/indexedFunction/bibliobattle_shake_amazon.srt.js
+
+demo:
+http://srtjs.azurewebsites.net/?v=vPQ__X-SUD8&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/indexedFunction/bibliobattle_shake_amazon.srt.js
