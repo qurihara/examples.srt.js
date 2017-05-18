@@ -75,6 +75,15 @@ https://srtjs.azurewebsites.net/?v=DfYC_GffTPc&surl=https://raw.githubuserconten
 
 Takeing photos before/at a comedian's joke.
 
+# Camera
+src:
+https://raw.githubusercontent.com/qurihara/examples.srt.js/master/face_recognition/force_gaze.srt.js
+
+demo:
+https://srtjs.azurewebsites.net/?v=m2xW80OmcVE&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/face_recognition/force_gaze.srt.js
+
+Pauses when no one is watching.
+
 # Text to Speech
 src:
 https://raw.githubusercontent.com/qurihara/examples.srt.js/master/text_to_speech/tts_happybirthday.srt.js
