@@ -54,6 +54,18 @@ https://srtjs.azurewebsites.net/?v=0E00Zuayv9Q&surl=https://raw.githubuserconten
 
 Run 2 instances of the above demo simultaneously to test both message sending and recieving.
 
+## meshblu
+### meshblu send
+src:
+https://raw.githubusercontent.com/qurihara/examples.srt.js/master/iot/meshblu_send.srt.js
+
+### meshblu receive
+src:
+https://raw.githubusercontent.com/qurihara/examples.srt.js/master/iot/meshblu_receive.srt.js
+
+You can check send/reveice by the following website with your meshblu account:
+http://jsrun.it/qurihara/UVH7?myuuid=xxx&mytoken=yyy&server=zzz.zzz.zzz.zzz&port=80&suuid=xxx
+
 # Camera
 src:
 https://raw.githubusercontent.com/qurihara/examples.srt.js/master/camera/wakky_cameracapture.srt.js
@@ -61,7 +73,7 @@ https://raw.githubusercontent.com/qurihara/examples.srt.js/master/camera/wakky_c
 demo:
 https://srtjs.azurewebsites.net/?v=DfYC_GffTPc&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/camera/wakky_cameracapture.srt.js
 
-Takeing a photo at a comedian's joke.
+Takeing photos before/at a comedian's joke.
 
 # Text to Speech
 src:
