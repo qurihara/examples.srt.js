@@ -33,3 +33,21 @@ demo:
 https://srtjs.azurewebsites.net/?v=M3FyHUbGu9M&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/simple/window_close.srt.js
 
 Closes at 2:51
+
+# webmo:
+
+## webmo peek-a-boo
+src:
+https://raw.githubusercontent.com/qurihara/examples.srt.js/master/webmo/webmo_peekaboo.srt.js
+
+demo:
+http://srtjs.azurewebsites.net/?v=oyCoKHoLtTwsurl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/webmo/webmo_peekaboo.srt.js
+
+# iot:
+
+## milkcocoa on ppap
+src:
+https://raw.githubusercontent.com/qurihara/examples.srt.js/master/iot/milkcocoa.srt.js
+
+demo:
+https://srtjs.azurewebsites.net/?v=0E00Zuayv9Q&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/iot/milkcocoa.srt.js
