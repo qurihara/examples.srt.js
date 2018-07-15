@@ -3,9 +3,12 @@
 //ppap obniz
 doOnce[index] = true;
 player.pauseVideo();
-obniz = new Obniz("OBNIZ_ID_HERE");
+obnizid = "OBNIZ_ID_HERE"
+var para = getUrlVars();
+if (para["obnizid"])  obnizid = para["obnizid"];
+obniz = new Obniz(obnizid);
 obniz.onconnect = async function () {
-  obniz.display.print("srt.js");
+  obniz.display.print("srt.js ppap");
   player.playVideo();
 }
 
