@@ -26,4 +26,5 @@ obniz.display.print("apple-pen");
 
 4
 00:00:32,500 --> 00:00:35,500
+obniz.display.clear();
 player.seekTo(22,true);//リピート再生
