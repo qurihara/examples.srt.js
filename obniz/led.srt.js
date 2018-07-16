@@ -1,7 +1,7 @@
 0
 00:00:00,000 --> 00:00:01,000
 //ppap obniz
-//demo url:  http://obniz.io/users/221/repo/srtjs.html?v=0E00Zuayv9Q&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/obniz/ppap_obniz.srt.js
+//demo url:  http://obniz.io/users/221/repo/srtjs.html?v=CUgQUGIdlJQ&surl=https://raw.githubusercontent.com/qurihara/examples.srt.js/master/obniz/led.srt.js
 doOnce[index] = true;
 obniz.display.clear();
 obniz.display.print("LED TEST");
